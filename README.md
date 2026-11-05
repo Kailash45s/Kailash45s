@@ -1,6 +1,6 @@
 ### Founder and developer at Depozza SAS
 
-[Depozza SAS](https://depozza.com) is a small French company that builds and ships its own apps for people in Europe. I write the product, the code and the store listings, and I look after them once they're live.
+[Depozza SAS](https://depozza.eu) is a small French company that builds and ships its own apps for people in Europe. I write the product, the code and the store listings, and I look after them once they're live.
 
 Most of what I make follows the same idea: one codebase, a real native app on iOS and Android, and it should keep working when the connection drops.
 
@@ -24,4 +24,4 @@ The source code is private. Each link above has screenshots and a short write-up
 
 #### Contact
 
-[azd@depozza.com](mailto:azd@depozza.com) · [depozza.com](https://depozza.com)
+[azd@depozza.com](mailto:azd@depozza.com) · [depozza.eu](https://depozza.eu)
